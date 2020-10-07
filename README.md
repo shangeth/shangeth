@@ -23,6 +23,7 @@
 <br/>
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
+ 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2](https://github.com/abhishekkrthakur/colabcode/issues/2) in [abhishekkrthakur/colabcode](https://github.com/abhishekkrthakur/colabcode)
 2. 🗣 Commented on [#2](https://github.com/abhishekkrthakur/colabcode/issues/2) in [abhishekkrthakur/colabcode](https://github.com/abhishekkrthakur/colabcode)
@@ -30,6 +31,7 @@
 4. 🗣 Commented on [#2](https://github.com/abhishekkrthakur/colabcode/issues/2) in [abhishekkrthakur/colabcode](https://github.com/abhishekkrthakur/colabcode)
 5. 💪 Opened PR [#2](https://github.com/abhishekkrthakur/colabcode/pull/2) in [abhishekkrthakur/colabcode](https://github.com/abhishekkrthakur/colabcode)
 <!--END_SECTION:activity-->
+
  </details>
 
 <br/>
