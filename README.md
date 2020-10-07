@@ -13,6 +13,8 @@
     - Deep Reinforcement Learning
 - Actively looking for Research Opportunities(Assistantship/Full-Time) in Machine Learning Research.
 
+Checkout the project [**wavencoder**](https://github.com/shangeth/wavencoder), looking for contributors who are interested in Speech Representations, Unsupervised/Semi-Supervised Representation learning and have good PyTorch experience.
+
 ### Connect with me:
 [<img align="left" alt="mail me" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mail-dot-ru.svg" />](mailto:f20160442@goa.bits-pilani.ac.in)
 [<img align="left" alt="shangeth.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://shangeth.com/)
