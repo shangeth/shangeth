@@ -16,3 +16,10 @@
 [<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/shangeth)
 
 <br />
+
+
+
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-five-ochre.vercel.app/api?username=shangeth&show_icons=true&hide_border=true" />
+
