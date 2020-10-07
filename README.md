@@ -1,4 +1,6 @@
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+ [![Repos Badge](https://badges.pufler.dev/repos/shangeth)](https://badges.pufler.dev)
+ 
  
  ### Hi there, I'm [Shangeth](https://shangeth.com/) 👋
 
