@@ -8,3 +8,11 @@
     - Unsupervised/Semi-Supervised Representation Learning
     - Deep Reinforcement Learning
 - Actively looking for Research Opportunities(Assistantship/Full-Time) in Machine Learning Research.
+
+### Connect with me:
+
+[<img align="left" alt="shangeth.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://shangeth.com/)
+[<img align="left" alt="twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/shangethr)
+[<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/shangeth)
+
+<br />
