@@ -34,10 +34,5 @@
 
  </details>
 
-<br/>
-<br/>
-
-
-
- <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-five-ochre.vercel.app/api?username=shangeth&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-five-ochre.vercel.app/api?username=shangeth&show_icons=true&hide_border=true" />
 
