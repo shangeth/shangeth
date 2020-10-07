@@ -25,11 +25,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/abhishekkrthakur/colabcode/issues/2) in [abhishekkrthakur/colabcode](https://github.com/abhishekkrthakur/colabcode)
-2. 🗣 Commented on [#2](https://github.com/abhishekkrthakur/colabcode/issues/2) in [abhishekkrthakur/colabcode](https://github.com/abhishekkrthakur/colabcode)
+1. 🎉 Merged PR [#8](https://github.com/shangeth/wavencoder/pull/8) in [shangeth/wavencoder](https://github.com/shangeth/wavencoder)
+2. 💪 Opened PR [#8](https://github.com/shangeth/wavencoder/pull/8) in [shangeth/wavencoder](https://github.com/shangeth/wavencoder)
 3. 🗣 Commented on [#2](https://github.com/abhishekkrthakur/colabcode/issues/2) in [abhishekkrthakur/colabcode](https://github.com/abhishekkrthakur/colabcode)
 4. 🗣 Commented on [#2](https://github.com/abhishekkrthakur/colabcode/issues/2) in [abhishekkrthakur/colabcode](https://github.com/abhishekkrthakur/colabcode)
-5. 💪 Opened PR [#2](https://github.com/abhishekkrthakur/colabcode/pull/2) in [abhishekkrthakur/colabcode](https://github.com/abhishekkrthakur/colabcode)
+5. 🗣 Commented on [#2](https://github.com/abhishekkrthakur/colabcode/issues/2) in [abhishekkrthakur/colabcode](https://github.com/abhishekkrthakur/colabcode)
 <!--END_SECTION:activity-->
 
  </details>
