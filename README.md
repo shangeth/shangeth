@@ -1,4 +1,6 @@
-### Hi there, I'm [Shangeth](https://shangeth.com/) 👋
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+ 
+ ### Hi there, I'm [Shangeth](https://shangeth.com/) 👋
 
 ## Researcher, Developer!
 - I'm currently a Research Intern at [Speech and Language Laboratory](https://www.ntu.edu.sg/home/aseschng/SpeechLab.html) at NTU, Singapore under [Prof.Chng Eng Siong](https://www.ntu.edu.sg/home/aseschng/default.html).
