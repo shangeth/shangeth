@@ -27,11 +27,11 @@ Checkout the project [**wavencoder**](https://github.com/shangeth/wavencoder), l
   <summary>:zap: Recent GitHub Activity</summary>
  
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/shangeth/wavencoder/pull/8) in [shangeth/wavencoder](https://github.com/shangeth/wavencoder)
-2. 💪 Opened PR [#8](https://github.com/shangeth/wavencoder/pull/8) in [shangeth/wavencoder](https://github.com/shangeth/wavencoder)
-3. 🗣 Commented on [#2](https://github.com/abhishekkrthakur/colabcode/issues/2) in [abhishekkrthakur/colabcode](https://github.com/abhishekkrthakur/colabcode)
-4. 🗣 Commented on [#2](https://github.com/abhishekkrthakur/colabcode/issues/2) in [abhishekkrthakur/colabcode](https://github.com/abhishekkrthakur/colabcode)
-5. 🗣 Commented on [#2](https://github.com/abhishekkrthakur/colabcode/issues/2) in [abhishekkrthakur/colabcode](https://github.com/abhishekkrthakur/colabcode)
+1. 💪 Opened PR [#3](https://github.com/pyusetest/first-repo/pull/3) in [pyusetest/first-repo](https://github.com/pyusetest/first-repo)
+2. 💪 Opened PR [#2](https://github.com/pyusetest/first-repo/pull/2) in [pyusetest/first-repo](https://github.com/pyusetest/first-repo)
+3. 💪 Opened PR [#1](https://github.com/pyusetest/first-repo/pull/1) in [pyusetest/first-repo](https://github.com/pyusetest/first-repo)
+4. 🎉 Merged PR [#8](https://github.com/shangeth/wavencoder/pull/8) in [shangeth/wavencoder](https://github.com/shangeth/wavencoder)
+5. 💪 Opened PR [#8](https://github.com/shangeth/wavencoder/pull/8) in [shangeth/wavencoder](https://github.com/shangeth/wavencoder)
 <!--END_SECTION:activity-->
 
  </details>
