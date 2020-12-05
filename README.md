@@ -27,11 +27,11 @@ Checkout the project [**wavencoder**](https://github.com/shangeth/wavencoder), l
   <summary>:zap: Recent GitHub Activity</summary>
  
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/pyusetest/first-repo/pull/3) in [pyusetest/first-repo](https://github.com/pyusetest/first-repo)
-2. 💪 Opened PR [#2](https://github.com/pyusetest/first-repo/pull/2) in [pyusetest/first-repo](https://github.com/pyusetest/first-repo)
-3. 💪 Opened PR [#1](https://github.com/pyusetest/first-repo/pull/1) in [pyusetest/first-repo](https://github.com/pyusetest/first-repo)
-4. 🎉 Merged PR [#8](https://github.com/shangeth/wavencoder/pull/8) in [shangeth/wavencoder](https://github.com/shangeth/wavencoder)
-5. 💪 Opened PR [#8](https://github.com/shangeth/wavencoder/pull/8) in [shangeth/wavencoder](https://github.com/shangeth/wavencoder)
+1. 🗣 Commented on [#9](https://github.com/shangeth/wavencoder/issues/9) in [shangeth/wavencoder](https://github.com/shangeth/wavencoder)
+2. 💪 Opened PR [#3](https://github.com/pyusetest/first-repo/pull/3) in [pyusetest/first-repo](https://github.com/pyusetest/first-repo)
+3. 💪 Opened PR [#2](https://github.com/pyusetest/first-repo/pull/2) in [pyusetest/first-repo](https://github.com/pyusetest/first-repo)
+4. 💪 Opened PR [#1](https://github.com/pyusetest/first-repo/pull/1) in [pyusetest/first-repo](https://github.com/pyusetest/first-repo)
+5. 🎉 Merged PR [#8](https://github.com/shangeth/wavencoder/pull/8) in [shangeth/wavencoder](https://github.com/shangeth/wavencoder)
 <!--END_SECTION:activity-->
 
  </details>
