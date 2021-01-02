@@ -27,11 +27,11 @@ Checkout the project [**wavencoder**](https://github.com/shangeth/wavencoder), l
   <summary>:zap: Recent GitHub Activity</summary>
  
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#12](https://github.com/shangeth/wavencoder/issues/12) in [shangeth/wavencoder](https://github.com/shangeth/wavencoder)
-2. ❗️ Closed issue [#10](https://github.com/shangeth/wavencoder/issues/10) in [shangeth/wavencoder](https://github.com/shangeth/wavencoder)
-3. 🗣 Commented on [#10](https://github.com/shangeth/wavencoder/issues/10) in [shangeth/wavencoder](https://github.com/shangeth/wavencoder)
-4. 🗣 Commented on [#9](https://github.com/shangeth/wavencoder/issues/9) in [shangeth/wavencoder](https://github.com/shangeth/wavencoder)
-5. 💪 Opened PR [#3](https://github.com/pyusetest/first-repo/pull/3) in [pyusetest/first-repo](https://github.com/pyusetest/first-repo)
+1. ❗️ Opened issue [#1](https://github.com/iiscleap/NISP-Dataset/issues/1) in [iiscleap/NISP-Dataset](https://github.com/iiscleap/NISP-Dataset)
+2. ❗️ Opened issue [#12](https://github.com/shangeth/wavencoder/issues/12) in [shangeth/wavencoder](https://github.com/shangeth/wavencoder)
+3. ❗️ Closed issue [#10](https://github.com/shangeth/wavencoder/issues/10) in [shangeth/wavencoder](https://github.com/shangeth/wavencoder)
+4. 🗣 Commented on [#10](https://github.com/shangeth/wavencoder/issues/10) in [shangeth/wavencoder](https://github.com/shangeth/wavencoder)
+5. 🗣 Commented on [#9](https://github.com/shangeth/wavencoder/issues/9) in [shangeth/wavencoder](https://github.com/shangeth/wavencoder)
 <!--END_SECTION:activity-->
 
  </details>
