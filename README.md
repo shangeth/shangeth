@@ -27,11 +27,11 @@ Checkout the project [**wavencoder**](https://github.com/shangeth/wavencoder), l
   <summary>:zap: Recent GitHub Activity</summary>
  
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/shangeth/SpeakerProfiling/issues/1) in [shangeth/SpeakerProfiling](https://github.com/shangeth/SpeakerProfiling)
-2. ❗️ Opened issue [#13](https://github.com/shangeth/wavencoder/issues/13) in [shangeth/wavencoder](https://github.com/shangeth/wavencoder)
-3. ❗️ Opened issue [#1](https://github.com/iiscleap/NISP-Dataset/issues/1) in [iiscleap/NISP-Dataset](https://github.com/iiscleap/NISP-Dataset)
-4. ❗️ Opened issue [#12](https://github.com/shangeth/wavencoder/issues/12) in [shangeth/wavencoder](https://github.com/shangeth/wavencoder)
-5. ❗️ Closed issue [#10](https://github.com/shangeth/wavencoder/issues/10) in [shangeth/wavencoder](https://github.com/shangeth/wavencoder)
+1. ❗️ Opened issue [#2](https://github.com/shangeth/SpeakerProfiling/issues/2) in [shangeth/SpeakerProfiling](https://github.com/shangeth/SpeakerProfiling)
+2. ❗️ Opened issue [#1](https://github.com/shangeth/SpeakerProfiling/issues/1) in [shangeth/SpeakerProfiling](https://github.com/shangeth/SpeakerProfiling)
+3. ❗️ Opened issue [#13](https://github.com/shangeth/wavencoder/issues/13) in [shangeth/wavencoder](https://github.com/shangeth/wavencoder)
+4. ❗️ Opened issue [#1](https://github.com/iiscleap/NISP-Dataset/issues/1) in [iiscleap/NISP-Dataset](https://github.com/iiscleap/NISP-Dataset)
+5. ❗️ Opened issue [#12](https://github.com/shangeth/wavencoder/issues/12) in [shangeth/wavencoder](https://github.com/shangeth/wavencoder)
 <!--END_SECTION:activity-->
 
  </details>
