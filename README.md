@@ -27,11 +27,11 @@ Checkout the project [**wavencoder**](https://github.com/shangeth/wavencoder), l
   <summary>:zap: Recent GitHub Activity</summary>
  
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/shangeth/SpeakerProfiling/issues/3) in [shangeth/SpeakerProfiling](https://github.com/shangeth/SpeakerProfiling)
-2. ❗️ Closed issue [#2](https://github.com/shangeth/SpeakerProfiling/issues/2) in [shangeth/SpeakerProfiling](https://github.com/shangeth/SpeakerProfiling)
-3. ❗️ Closed issue [#1](https://github.com/shangeth/SpeakerProfiling/issues/1) in [shangeth/SpeakerProfiling](https://github.com/shangeth/SpeakerProfiling)
-4. ❗️ Opened issue [#2](https://github.com/shangeth/SpeakerProfiling/issues/2) in [shangeth/SpeakerProfiling](https://github.com/shangeth/SpeakerProfiling)
-5. ❗️ Opened issue [#1](https://github.com/shangeth/SpeakerProfiling/issues/1) in [shangeth/SpeakerProfiling](https://github.com/shangeth/SpeakerProfiling)
+1. ❗️ Closed issue [#12](https://github.com/shangeth/wavencoder/issues/12) in [shangeth/wavencoder](https://github.com/shangeth/wavencoder)
+2. ❗️ Opened issue [#3](https://github.com/shangeth/SpeakerProfiling/issues/3) in [shangeth/SpeakerProfiling](https://github.com/shangeth/SpeakerProfiling)
+3. ❗️ Closed issue [#2](https://github.com/shangeth/SpeakerProfiling/issues/2) in [shangeth/SpeakerProfiling](https://github.com/shangeth/SpeakerProfiling)
+4. ❗️ Closed issue [#1](https://github.com/shangeth/SpeakerProfiling/issues/1) in [shangeth/SpeakerProfiling](https://github.com/shangeth/SpeakerProfiling)
+5. ❗️ Opened issue [#2](https://github.com/shangeth/SpeakerProfiling/issues/2) in [shangeth/SpeakerProfiling](https://github.com/shangeth/SpeakerProfiling)
 <!--END_SECTION:activity-->
 
  </details>
