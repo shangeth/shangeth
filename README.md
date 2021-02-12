@@ -27,11 +27,11 @@ Checkout the project [**wavencoder**](https://github.com/shangeth/wavencoder), l
   <summary>:zap: Recent GitHub Activity</summary>
  
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#9](https://github.com/shangeth/wavencoder/issues/9) in [shangeth/wavencoder](https://github.com/shangeth/wavencoder)
-2. 🗣 Commented on [#9](https://github.com/shangeth/wavencoder/issues/9) in [shangeth/wavencoder](https://github.com/shangeth/wavencoder)
-3. ❗️ Closed issue [#13](https://github.com/shangeth/wavencoder/issues/13) in [shangeth/wavencoder](https://github.com/shangeth/wavencoder)
-4. ❗️ Closed issue [#12](https://github.com/shangeth/wavencoder/issues/12) in [shangeth/wavencoder](https://github.com/shangeth/wavencoder)
-5. ❗️ Opened issue [#3](https://github.com/shangeth/SpeakerProfiling/issues/3) in [shangeth/SpeakerProfiling](https://github.com/shangeth/SpeakerProfiling)
+1. ❗️ Closed issue [#7](https://github.com/shangeth/wavencoder/issues/7) in [shangeth/wavencoder](https://github.com/shangeth/wavencoder)
+2. ❗️ Closed issue [#6](https://github.com/shangeth/wavencoder/issues/6) in [shangeth/wavencoder](https://github.com/shangeth/wavencoder)
+3. 🗣 Commented on [#6](https://github.com/shangeth/wavencoder/issues/6) in [shangeth/wavencoder](https://github.com/shangeth/wavencoder)
+4. ❗️ Closed issue [#9](https://github.com/shangeth/wavencoder/issues/9) in [shangeth/wavencoder](https://github.com/shangeth/wavencoder)
+5. 🗣 Commented on [#9](https://github.com/shangeth/wavencoder/issues/9) in [shangeth/wavencoder](https://github.com/shangeth/wavencoder)
 <!--END_SECTION:activity-->
 
  </details>
