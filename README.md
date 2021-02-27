@@ -27,11 +27,11 @@ Checkout the project [**wavencoder**](https://github.com/shangeth/wavencoder), l
   <summary>:zap: Recent GitHub Activity</summary>
  
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/shangeth/Speaker-Representation-Learning/pull/1) in [shangeth/Speaker-Representation-Learning](https://github.com/shangeth/Speaker-Representation-Learning)
-2. 💪 Opened PR [#1](https://github.com/shangeth/Speaker-Representation-Learning/pull/1) in [shangeth/Speaker-Representation-Learning](https://github.com/shangeth/Speaker-Representation-Learning)
-3. ❗️ Closed issue [#7](https://github.com/shangeth/wavencoder/issues/7) in [shangeth/wavencoder](https://github.com/shangeth/wavencoder)
-4. ❗️ Closed issue [#6](https://github.com/shangeth/wavencoder/issues/6) in [shangeth/wavencoder](https://github.com/shangeth/wavencoder)
-5. 🗣 Commented on [#6](https://github.com/shangeth/wavencoder/issues/6) in [shangeth/wavencoder](https://github.com/shangeth/wavencoder)
+1. 🗣 Commented on [#14](https://github.com/shangeth/wavencoder/issues/14) in [shangeth/wavencoder](https://github.com/shangeth/wavencoder)
+2. ❗️ Opened issue [#14](https://github.com/shangeth/wavencoder/issues/14) in [shangeth/wavencoder](https://github.com/shangeth/wavencoder)
+3. 🎉 Merged PR [#1](https://github.com/shangeth/Speaker-Representation-Learning/pull/1) in [shangeth/Speaker-Representation-Learning](https://github.com/shangeth/Speaker-Representation-Learning)
+4. 💪 Opened PR [#1](https://github.com/shangeth/Speaker-Representation-Learning/pull/1) in [shangeth/Speaker-Representation-Learning](https://github.com/shangeth/Speaker-Representation-Learning)
+5. ❗️ Closed issue [#7](https://github.com/shangeth/wavencoder/issues/7) in [shangeth/wavencoder](https://github.com/shangeth/wavencoder)
 <!--END_SECTION:activity-->
 
  </details>
