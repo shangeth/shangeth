@@ -28,10 +28,10 @@ Checkout the project [**wavencoder**](https://github.com/shangeth/wavencoder), l
   <summary>:zap: Recent GitHub Activity</summary>
  
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7840](https://github.com/education/GitHubGraduation-2021/pull/7840) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
-2. ❗️ Closed issue [#14](https://github.com/shangeth/wavencoder/issues/14) in [shangeth/wavencoder](https://github.com/shangeth/wavencoder)
-3. 🗣 Commented on [#14](https://github.com/shangeth/wavencoder/issues/14) in [shangeth/wavencoder](https://github.com/shangeth/wavencoder)
-4. 🗣 Commented on [#14](https://github.com/shangeth/wavencoder/issues/14) in [shangeth/wavencoder](https://github.com/shangeth/wavencoder)
+1. ❗️ Closed issue [#16](https://github.com/shangeth/wavencoder/issues/16) in [shangeth/wavencoder](https://github.com/shangeth/wavencoder)
+2. 🗣 Commented on [#16](https://github.com/shangeth/wavencoder/issues/16) in [shangeth/wavencoder](https://github.com/shangeth/wavencoder)
+3. 🗣 Commented on [#16](https://github.com/shangeth/wavencoder/issues/16) in [shangeth/wavencoder](https://github.com/shangeth/wavencoder)
+4. 💪 Opened PR [#7840](https://github.com/education/GitHubGraduation-2021/pull/7840) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
 5. ❗️ Opened issue [#14](https://github.com/shangeth/wavencoder/issues/14) in [shangeth/wavencoder](https://github.com/shangeth/wavencoder)
 <!--END_SECTION:activity-->
 
