@@ -29,10 +29,10 @@ Checkout the project [**wavencoder**](https://github.com/shangeth/wavencoder), l
  
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2469](https://github.com/NVIDIA/NeMo/issues/2469) in [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo)
-2. ❗️ Opened issue [#2469](https://github.com/NVIDIA/NeMo/issues/2469) in [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo)
-3. 🗣 Commented on [#185](https://github.com/NVIDIA/waveglow/issues/185) in [NVIDIA/waveglow](https://github.com/NVIDIA/waveglow)
-4. ❗️ Closed issue [#16](https://github.com/shangeth/wavencoder/issues/16) in [shangeth/wavencoder](https://github.com/shangeth/wavencoder)
-5. 🗣 Commented on [#16](https://github.com/shangeth/wavencoder/issues/16) in [shangeth/wavencoder](https://github.com/shangeth/wavencoder)
+2. 🗣 Commented on [#2469](https://github.com/NVIDIA/NeMo/issues/2469) in [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo)
+3. 🗣 Commented on [#2469](https://github.com/NVIDIA/NeMo/issues/2469) in [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo)
+4. ❗️ Opened issue [#2469](https://github.com/NVIDIA/NeMo/issues/2469) in [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo)
+5. 🗣 Commented on [#185](https://github.com/NVIDIA/waveglow/issues/185) in [NVIDIA/waveglow](https://github.com/NVIDIA/waveglow)
 <!--END_SECTION:activity-->
 
  </details>
