@@ -28,11 +28,11 @@ Checkout the project [**wavencoder**](https://github.com/shangeth/wavencoder), l
   <summary>:zap: Recent GitHub Activity</summary>
  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2469](https://github.com/NVIDIA/NeMo/issues/2469) in [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo)
+1. ❗️ Closed issue [#2469](https://github.com/NVIDIA/NeMo/issues/2469) in [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo)
 2. 🗣 Commented on [#2469](https://github.com/NVIDIA/NeMo/issues/2469) in [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo)
 3. 🗣 Commented on [#2469](https://github.com/NVIDIA/NeMo/issues/2469) in [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo)
-4. ❗️ Opened issue [#2469](https://github.com/NVIDIA/NeMo/issues/2469) in [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo)
-5. 🗣 Commented on [#185](https://github.com/NVIDIA/waveglow/issues/185) in [NVIDIA/waveglow](https://github.com/NVIDIA/waveglow)
+4. 🗣 Commented on [#2469](https://github.com/NVIDIA/NeMo/issues/2469) in [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo)
+5. 🗣 Commented on [#2469](https://github.com/NVIDIA/NeMo/issues/2469) in [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo)
 <!--END_SECTION:activity-->
 
  </details>
