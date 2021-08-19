@@ -28,9 +28,9 @@ Checkout the project [**wavencoder**](https://github.com/shangeth/wavencoder), l
   <summary>:zap: Recent GitHub Activity</summary>
  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1799](https://github.com/NVIDIA/NeMo/issues/1799) in [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo)
-2. ❗️ Closed issue [#2469](https://github.com/NVIDIA/NeMo/issues/2469) in [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo)
-3. 🗣 Commented on [#2469](https://github.com/NVIDIA/NeMo/issues/2469) in [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo)
+1. ❗️ Opened issue [#988](https://github.com/NVIDIA/DeepLearningExamples/issues/988) in [NVIDIA/DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples)
+2. 🗣 Commented on [#1799](https://github.com/NVIDIA/NeMo/issues/1799) in [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo)
+3. ❗️ Closed issue [#2469](https://github.com/NVIDIA/NeMo/issues/2469) in [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo)
 4. 🗣 Commented on [#2469](https://github.com/NVIDIA/NeMo/issues/2469) in [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo)
 5. 🗣 Commented on [#2469](https://github.com/NVIDIA/NeMo/issues/2469) in [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo)
 <!--END_SECTION:activity-->
