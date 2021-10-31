@@ -28,11 +28,11 @@ Checkout the project [**wavencoder**](https://github.com/shangeth/wavencoder), l
   <summary>:zap: Recent GitHub Activity</summary>
  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/keonlee9420/VAENAR-TTS/issues/1) in [keonlee9420/VAENAR-TTS](https://github.com/keonlee9420/VAENAR-TTS)
-2. 🗣 Commented on [#1](https://github.com/keonlee9420/VAENAR-TTS/issues/1) in [keonlee9420/VAENAR-TTS](https://github.com/keonlee9420/VAENAR-TTS)
-3. ❗️ Opened issue [#988](https://github.com/NVIDIA/DeepLearningExamples/issues/988) in [NVIDIA/DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples)
-4. 🗣 Commented on [#1799](https://github.com/NVIDIA/NeMo/issues/1799) in [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo)
-5. ❗️ Closed issue [#2469](https://github.com/NVIDIA/NeMo/issues/2469) in [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo)
+1. 💪 Opened PR [#8](https://github.com/pyusetest/first-repo/pull/8) in [pyusetest/first-repo](https://github.com/pyusetest/first-repo)
+2. 💪 Opened PR [#7](https://github.com/pyusetest/first-repo/pull/7) in [pyusetest/first-repo](https://github.com/pyusetest/first-repo)
+3. 💪 Opened PR [#6](https://github.com/pyusetest/first-repo/pull/6) in [pyusetest/first-repo](https://github.com/pyusetest/first-repo)
+4. 💪 Opened PR [#5](https://github.com/pyusetest/first-repo/pull/5) in [pyusetest/first-repo](https://github.com/pyusetest/first-repo)
+5. 💪 Opened PR [#4](https://github.com/pyusetest/first-repo/pull/4) in [pyusetest/first-repo](https://github.com/pyusetest/first-repo)
 <!--END_SECTION:activity-->
 
  </details>
