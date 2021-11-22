@@ -28,11 +28,11 @@ Checkout the project [**wavencoder**](https://github.com/shangeth/wavencoder), l
   <summary>:zap: Recent GitHub Activity</summary>
  
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/pyusetest/first-repo/pull/8) in [pyusetest/first-repo](https://github.com/pyusetest/first-repo)
-2. 💪 Opened PR [#7](https://github.com/pyusetest/first-repo/pull/7) in [pyusetest/first-repo](https://github.com/pyusetest/first-repo)
-3. 💪 Opened PR [#6](https://github.com/pyusetest/first-repo/pull/6) in [pyusetest/first-repo](https://github.com/pyusetest/first-repo)
-4. 💪 Opened PR [#5](https://github.com/pyusetest/first-repo/pull/5) in [pyusetest/first-repo](https://github.com/pyusetest/first-repo)
-5. 💪 Opened PR [#4](https://github.com/pyusetest/first-repo/pull/4) in [pyusetest/first-repo](https://github.com/pyusetest/first-repo)
+1. 🗣 Commented on [#78](https://github.com/skit-ai/tech/issues/78) in [skit-ai/tech](https://github.com/skit-ai/tech)
+2. 💪 Opened PR [#78](https://github.com/skit-ai/tech/pull/78) in [skit-ai/tech](https://github.com/skit-ai/tech)
+3. 💪 Opened PR [#8](https://github.com/pyusetest/first-repo/pull/8) in [pyusetest/first-repo](https://github.com/pyusetest/first-repo)
+4. 💪 Opened PR [#7](https://github.com/pyusetest/first-repo/pull/7) in [pyusetest/first-repo](https://github.com/pyusetest/first-repo)
+5. 💪 Opened PR [#6](https://github.com/pyusetest/first-repo/pull/6) in [pyusetest/first-repo](https://github.com/pyusetest/first-repo)
 <!--END_SECTION:activity-->
 
  </details>
