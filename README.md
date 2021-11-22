@@ -5,7 +5,7 @@
  ### Hi there, I'm [Shangeth](https://shangeth.com/) 👋
 
 ## Researcher, Developer!
-- Machine learning Researcher at Vernacular.ai
+- Machine learning Researcher at skit.ai
 - Previously, Research Intern at [Speech and Language Laboratory](https://personal.ntu.edu.sg/aseschng/SpeechLab.html) at NTU, Singapore under [Prof. Chng Eng Siong](https://personal.ntu.edu.sg/aseschng/default.html).
 - Previously worked with IBM Research Labs as Research Intern, work submitted at KDD-2021.
 - Research Interests :nerd_face:
