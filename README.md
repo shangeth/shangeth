@@ -6,9 +6,13 @@
 
 ## Researcher, Developer!
 - Machine learning Researcher at skit.ai
-- Previously, Research Intern at [Speech and Language Laboratory](https://personal.ntu.edu.sg/aseschng/SpeechLab.html) at NTU, Singapore under [Prof. Chng Eng Siong](https://personal.ntu.edu.sg/aseschng/default.html).
-- Previously worked with IBM Research Labs as Research Intern, work submitted at KDD-2021.
+- Previously,
+  - Research Assistant at [Speech and Language Laboratory](https://personal.ntu.edu.sg/aseschng/SpeechLab.html) at NTU, Singapore under [Prof. Chng Eng Siong](https://personal.ntu.edu.sg/aseschng/default.html).
+  - Research Intern at IBM Research Labs.
+  - Research Collaborator at INRIA, France under [Prof.Isabelle Guyon](https://guyon.chalearn.org/)
 - Research Interests :nerd_face:
+    - Multi-Modal LLM(Speech)
+    - Spoken Dialogue Systems
     - Speech Representations
     - Unsupervised/Semi-Supervised Representation Learning
     - Deep Reinforcement Learning
