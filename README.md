@@ -25,6 +25,7 @@ Checkout the project [**wavencoder**](https://github.com/shangeth/wavencoder), l
 [<img align="left" alt="shangeth.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://shangeth.com/)
 [<img align="left" alt="twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/shangethr)
 [<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/shangeth)
+[<img align="left" alt="Google Scholar | Google Scholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />](https://scholar.google.com/citations?user=apmFPkAAAAAJ&hl=en)
 
 <br/>
 <br/>
