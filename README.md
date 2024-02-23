@@ -24,18 +24,6 @@ Checkout the project [**wavencoder**](https://github.com/shangeth/wavencoder), l
 
 <br/>
 <br/>
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
- 
-<!--START_SECTION:activity-->
-1. ❗️ Opened issue [#17](https://github.com/shangeth/wavencoder/issues/17) in [shangeth/wavencoder](https://github.com/shangeth/wavencoder)
-2. 🗣 Commented on [#78](https://github.com/skit-ai/tech/issues/78) in [skit-ai/tech](https://github.com/skit-ai/tech)
-3. 💪 Opened PR [#78](https://github.com/skit-ai/tech/pull/78) in [skit-ai/tech](https://github.com/skit-ai/tech)
-4. 💪 Opened PR [#8](https://github.com/pyusetest/first-repo/pull/8) in [pyusetest/first-repo](https://github.com/pyusetest/first-repo)
-5. 💪 Opened PR [#7](https://github.com/pyusetest/first-repo/pull/7) in [pyusetest/first-repo](https://github.com/pyusetest/first-repo)
-<!--END_SECTION:activity-->
 
- </details>
 
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-five-ochre.vercel.app/api?username=shangeth&show_icons=true&hide_border=true" />
-
+![Shangeth's GitHub stats](https://github-readme-stats.vercel.app/api?username=shangeth&hide=contribs,prs)
