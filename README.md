@@ -5,7 +5,7 @@
  ### Hi there, I'm [Shangeth](https://shangeth.com/) 👋
 
 ## Researcher, Developer!
-- Machine learning Researcher at skit.ai
+- Machine learning Researcher at [Skit.ai](https://skit.ai/)
 - Previously,
   - Research Assistant at [Speech and Language Laboratory](https://personal.ntu.edu.sg/aseschng/SpeechLab.html) at NTU, Singapore under [Prof. Chng Eng Siong](https://personal.ntu.edu.sg/aseschng/default.html).
   - Research Intern at IBM Research Labs.
