@@ -5,8 +5,8 @@
  ### Hi there, I'm [Shangeth](https://shangeth.com/) 👋
 
 ## Researcher, Developer!
-- Machine learning Researcher at [Skit.ai](https://skit.ai/)
 - Previously,
+  - Machine learning Researcher at [Skit.ai](https://skit.ai/)
   - Research Assistant at [Speech and Language Laboratory](https://personal.ntu.edu.sg/aseschng/SpeechLab.html) at NTU, Singapore under [Prof. Chng Eng Siong](https://personal.ntu.edu.sg/aseschng/default.html).
   - Research Intern at IBM Research Labs.
   - Research Collaborator at INRIA, France under [Prof.Isabelle Guyon](https://guyon.chalearn.org/)
@@ -18,7 +18,7 @@
     - Deep Reinforcement Learning
 
 
-Checkout the project [**wavencoder**](https://github.com/shangeth/wavencoder), looking for contributors who are interested in Speech Representations, Unsupervised/Semi-Supervised Representation learning and have good PyTorch experience.
+Check out my recent [open-source release](https://github.com/skit-ai/SpeechLLM) of multi-modal LLM for speech understanding.
 
 ### Connect with me:
 [<img align="left" alt="mail me" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mail-dot-ru.svg" />](mailto:f20160442@goa.bits-pilani.ac.in)
