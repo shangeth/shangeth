@@ -8,6 +8,7 @@
   - Research Intern at IBM Research Labs.
   - Research Collaborator at INRIA, France under [Prof.Isabelle Guyon](https://guyon.chalearn.org/)
 - Research Interests :nerd_face:
+    - Turn-Taking 
     - Multi-Modal LLM(Speech)
     - Spoken Dialogue Systems
     - Speech Representations
@@ -15,7 +16,7 @@
     - Deep Reinforcement Learning
 
 
-Check out my recent [open-source release](https://github.com/skit-ai/SpeechLLM) of multi-modal LLM for speech understanding.
+Check out my recent research paper - "[DualTurn: Learning Turn-Taking from Dual-Channel Generative Speech Pretraining](https://arxiv.org/abs/2603.08216)"
 
 ### Connect with me:
 [<img align="left" alt="mail me" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mail-dot-ru.svg" />](mailto:shangethrajaa@gmail.com)
