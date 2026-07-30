@@ -1,16 +1,17 @@
 ### Hi there, I'm [Shangeth](https://shangeth.com/) 👋
 
 ## Researcher, Developer!
-- Senior Machine Learning Research Scientist at [Anyreach AI](https://anyreach.ai/)
+- I'm currently exploring what's next, open to full-time research roles in multi-modal speech LLMs, full-duplex conversation, and speech-to-speech models. Get in touch if you're building in this space.
 - Previously,
+  - Senior Machine Learning Research Scientist at [Anyreach AI](https://anyreach.ai/)
   - Machine learning Researcher at [Skit.ai](https://skit.ai/)
   - Research Assistant at [Speech and Language Laboratory](https://personal.ntu.edu.sg/aseschng/SpeechLab.html) at NTU, Singapore under [Prof. Chng Eng Siong](https://personal.ntu.edu.sg/aseschng/default.html).
   - Research Intern at IBM Research Labs.
   - Research Collaborator at INRIA, France under [Prof.Isabelle Guyon](https://guyon.chalearn.org/)
 - Research Interests :nerd_face:
     - Turn-Taking 
-    - Multi-Modal LLM(Speech)
-    - Spoken Dialogue Systems
+    - Multi-Modal LLM(Speech-to-Speech)
+    - Full-Duplex Spoken Dialogue Systems
     - Speech Representations
     - Unsupervised/Semi-Supervised Representation Learning
     - Deep Reinforcement Learning
