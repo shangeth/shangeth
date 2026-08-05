@@ -1,4 +1,4 @@
-### Hi there, I'm [Shangeth](https://shangeth.com/) 👋
+### Hi there, I'm [Shangeth](https://shangeth.com/?utm_source=github&utm_medium=profile) 👋
 
 ## Researcher, Developer!
 - I'm currently exploring what's next, open to full-time research roles in multi-modal speech LLMs, full-duplex conversation, and speech-to-speech models. Get in touch if you're building in this space.
