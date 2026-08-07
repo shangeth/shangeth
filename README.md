@@ -17,7 +17,7 @@
     - Deep Reinforcement Learning
 
 
-Check out my recent research paper - "[DualTurn: Learning Turn-Taking from Dual-Channel Generative Speech Pretraining](https://arxiv.org/abs/2603.08216)"
+Check out my recent research paper(Interspeech 2026) - "[DualTurn: Learning Turn-Taking from Dual-Channel Generative Speech Pretraining](https://arxiv.org/abs/2603.08216)".
 
 ### Connect with me:
 [<img align="left" alt="mail me" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mail-dot-ru.svg" />](mailto:shangethrajaa@gmail.com)
