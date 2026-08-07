@@ -1,7 +1,7 @@
 ### Hi there, I'm [Shangeth](https://shangeth.com/?utm_source=github&utm_medium=profile) 👋
 
 ## Researcher, Developer!
-- I'm currently exploring what's next, open to full-time research roles in multi-modal speech LLMs, full-duplex conversation, and speech-to-speech models. Get in touch if you're building in this space.
+- I'm currently exploring what's next, **open to full-time/consulting ML roles** in multi-modal speech LLMs, full-duplex conversation, and speech-to-speech models. Get in touch if you're building in this space.
 - Previously,
   - Senior Machine Learning Research Scientist at [Anyreach AI](https://anyreach.ai/)
   - Machine learning Researcher at [Skit.ai](https://skit.ai/)
