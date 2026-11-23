@@ -1,7 +1,8 @@
 ### Hi there, I'm [Shangeth](https://shangeth.com/?utm_source=github&utm_medium=profile) 👋
 
 ## Researcher, Developer!
-- I'm currently exploring what's next, **open to full-time/consulting ML roles** in multi-modal speech LLMs, full-duplex conversation, and speech-to-speech models. Get in touch if you're building in this space.
+- Currently, Senior Research Scientist at Sabi.com, working on BCI and Full Duplex Voice AI Agents.
+- I'm **open to consulting ML roles** in multi-modal speech LLMs, full-duplex conversation, and speech-to-speech models. Get in touch if you're building in this space.
 - Previously,
   - Senior Machine Learning Research Scientist at [Anyreach AI](https://anyreach.ai/)
   - Machine learning Researcher at [Skit.ai](https://skit.ai/)
@@ -17,6 +18,7 @@
     - Deep Reinforcement Learning
 
 ### Latest
+- Won 3rd place in Track 2 of the [EEG/EMG Foundation Challenge 2026](https://neural-interfaces26.github.io/index.html)! Excited to present this work at the Brain & Body Workshop, **NeurIPS 2026**, in Sydney, December 6–12, 2026.
 - Check out my recent research paper(Interspeech 2026) - "[DualTurn: Learning Turn-Taking from Dual-Channel Generative Speech Pretraining](https://arxiv.org/abs/2603.08216)".
 - ```pip install llmranker```: LLM-based ranking and reasoning algorithms for search and recommendation - [PyPI v0.3.0](https://pypi.org/project/llmranker/), [Github](https://github.com/shangeth/llmranker)
 
